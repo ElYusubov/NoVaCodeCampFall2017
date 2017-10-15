@@ -1,3 +1,3 @@
-# NoVaCodeCampFall2017
+# NoVa CodeCamp Fall 2017
 
-All the powershell files and power-point are uploaded here
+All the PowerShell files and slides are uploaded here
